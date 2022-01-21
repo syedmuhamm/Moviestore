@@ -1,0 +1,18 @@
+body {
+  background: rgb(78, 75, 136);
+  background: linear-gradient(
+    131deg,
+    rgba(78, 75, 136, 1) 0%,
+    rgba(63, 63, 187, 1) 39%,
+    rgba(77, 187, 184, 1) 63%,
+    rgba(45, 105, 206, 1) 100%
+  );
+}
+
+.svg-inline--fa {
+  color: #e5e7eb;
+}
+
+.nav-item {
+  margin-top: 20px;
+}
